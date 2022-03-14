@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTest.SA.Analytics.Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTest.SA.Analytics.WebAPI", "CodingTest.SA.Analytics.WebAPI\CodingTest.SA.Analytics.WebAPI.csproj", "{A4EBD251-414E-40C5-8A8A-45FCBDA26447}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTest.SA.Analytics.Website", "CodingTest.SA.Analytics.Website\CodingTest.SA.Analytics.Website.csproj", "{6536E08B-BB5D-4262-9EB6-BF0EF38188F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{A4EBD251-414E-40C5-8A8A-45FCBDA26447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EBD251-414E-40C5-8A8A-45FCBDA26447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EBD251-414E-40C5-8A8A-45FCBDA26447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6536E08B-BB5D-4262-9EB6-BF0EF38188F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6536E08B-BB5D-4262-9EB6-BF0EF38188F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6536E08B-BB5D-4262-9EB6-BF0EF38188F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6536E08B-BB5D-4262-9EB6-BF0EF38188F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
