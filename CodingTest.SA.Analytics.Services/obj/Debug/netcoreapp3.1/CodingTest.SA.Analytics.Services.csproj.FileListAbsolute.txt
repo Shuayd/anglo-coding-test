@@ -1,0 +1,13 @@
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.csproj.AssemblyReference.cache
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.AssemblyInfoInputs.cache
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.AssemblyInfo.cs
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.csproj.CoreCompileInputs.cache
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\bin\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.deps.json
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\bin\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.dll
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\bin\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.pdb
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\bin\Debug\netcoreapp3.1\CodingTest.SA.Analytics.DataAccess.dll
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\bin\Debug\netcoreapp3.1\CodingTest.SA.Analytics.DataAccess.pdb
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.csproj.CopyComplete
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.dll
+C:\Users\shuay\source\repos\CodingTest.SA.Analytics\CodingTest.SA.Analytics.Services\obj\Debug\netcoreapp3.1\CodingTest.SA.Analytics.Services.pdb
